@@ -70,11 +70,17 @@ I focus on performance, scalability, and clean architecture.
 
 ## GitHub Stats
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karman07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karman07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karman07&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karman07&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=karman07&theme=tokyonight&hide_border=true"/>
+</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=karman07&theme=tokyonight)
 
