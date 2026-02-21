@@ -67,23 +67,21 @@ I focus on performance, scalability, and clean architecture.
 ![Lang Pie](https://quickchart.io/chart?c={type:'pie',data:{labels:['TypeScript','JavaScript','Python','Other'],datasets:[{data:[40,30,20,10]}]}})
 
 ---
+## GitHub Analytics
 
-## GitHub Stats
+<div align="center">
 
-## GitHub Stats
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karman07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karman07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karman07&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karman07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=karman07&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=karman07&theme=tokyonight)
+<div align="center">
 
+<img src="https://streak-stats.demolab.com?user=karman07&theme=tokyonight&hide_border=true" />
+
+</div>
 ---
 
 ## 2026 Goals
