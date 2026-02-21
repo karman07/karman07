@@ -80,11 +80,11 @@ I focus on performance, scalability, and clean architecture.
 
 ## 🎯 2026 Goals
 
-- 🚀 Build a production-grade SaaS platform
-- 🧠 Advance into AI-integrated applications
-- ⚡ Master system design & distributed architecture
-- 🌍 Contribute to open-source ecosystem
+- Build a production-grade SaaS platform
+- Advance into AI-integrated applications
+- Master system design & distributed architecture
+- Contribute to open-source ecosystem
 
 ---
 
-⭐ From [karman07](https://github.com/karman07)
+From [karman07](https://github.com/karman07)
