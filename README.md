@@ -51,7 +51,7 @@ I focus on performance, scalability, and clean architecture.
 - Mongoose
 - Prisma (if you use it, add it)
 
-### 📊 AI & Data
+### AI & Data
 - Python
 - Machine Learning
 - Deep Learning
@@ -70,15 +70,17 @@ I focus on performance, scalability, and clean architecture.
 
 ## GitHub Stats
 
-![Karman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karman07&show_icons=true&theme=tokyonight)
+## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karman07&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karman07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karman07&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=karman07&theme=tokyonight)
 
 ---
 
-## 🎯 2026 Goals
+## 2026 Goals
 
 - Build a production-grade SaaS platform
 - Advance into AI-integrated applications
