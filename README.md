@@ -5,7 +5,7 @@
 
 ## Connect With Me
 
-- 🌍 Portfolio: https://netflix-port-two.vercel.app/
+- 🌍 Portfolio: https://karmansingharora.com
 - 📧 Email: karmansingharora01@gmail.com
 - 💻 GitHub: https://github.com/karman07
 
